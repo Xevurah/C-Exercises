@@ -1,0 +1,7 @@
+C:\Users\ali_5\source\repos\Ejercicio 3 while - dowhile\Ejercicio 3 while - dowhile\bin\Debug\Ejercicio 3 while - dowhile.exe.config
+C:\Users\ali_5\source\repos\Ejercicio 3 while - dowhile\Ejercicio 3 while - dowhile\bin\Debug\Ejercicio 3 while - dowhile.exe
+C:\Users\ali_5\source\repos\Ejercicio 3 while - dowhile\Ejercicio 3 while - dowhile\bin\Debug\Ejercicio 3 while - dowhile.pdb
+C:\Users\ali_5\source\repos\Ejercicio 3 while - dowhile\Ejercicio 3 while - dowhile\obj\Debug\Ejercicio 3 while - dowhile.csprojAssemblyReference.cache
+C:\Users\ali_5\source\repos\Ejercicio 3 while - dowhile\Ejercicio 3 while - dowhile\obj\Debug\Ejercicio 3 while - dowhile.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\Ejercicio 3 while - dowhile\Ejercicio 3 while - dowhile\obj\Debug\Ejercicio 3 while - dowhile.exe
+C:\Users\ali_5\source\repos\Ejercicio 3 while - dowhile\Ejercicio 3 while - dowhile\obj\Debug\Ejercicio 3 while - dowhile.pdb

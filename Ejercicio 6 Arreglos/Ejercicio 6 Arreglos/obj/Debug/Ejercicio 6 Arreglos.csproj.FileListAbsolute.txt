@@ -1,0 +1,6 @@
+C:\Users\ali_5\source\repos\Ejercicio 6 Arreglos\Ejercicio 6 Arreglos\bin\Debug\Ejercicio 6 Arreglos.exe.config
+C:\Users\ali_5\source\repos\Ejercicio 6 Arreglos\Ejercicio 6 Arreglos\bin\Debug\Ejercicio 6 Arreglos.exe
+C:\Users\ali_5\source\repos\Ejercicio 6 Arreglos\Ejercicio 6 Arreglos\bin\Debug\Ejercicio 6 Arreglos.pdb
+C:\Users\ali_5\source\repos\Ejercicio 6 Arreglos\Ejercicio 6 Arreglos\obj\Debug\Ejercicio 6 Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\Ejercicio 6 Arreglos\Ejercicio 6 Arreglos\obj\Debug\Ejercicio 6 Arreglos.exe
+C:\Users\ali_5\source\repos\Ejercicio 6 Arreglos\Ejercicio 6 Arreglos\obj\Debug\Ejercicio 6 Arreglos.pdb

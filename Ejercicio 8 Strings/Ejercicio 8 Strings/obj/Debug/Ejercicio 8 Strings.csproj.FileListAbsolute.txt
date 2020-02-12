@@ -1,0 +1,7 @@
+C:\Users\ali_5\source\repos\Ejercicio 8 Strings\Ejercicio 8 Strings\bin\Debug\Ejercicio 8 Strings.exe.config
+C:\Users\ali_5\source\repos\Ejercicio 8 Strings\Ejercicio 8 Strings\bin\Debug\Ejercicio 8 Strings.exe
+C:\Users\ali_5\source\repos\Ejercicio 8 Strings\Ejercicio 8 Strings\bin\Debug\Ejercicio 8 Strings.pdb
+C:\Users\ali_5\source\repos\Ejercicio 8 Strings\Ejercicio 8 Strings\obj\Debug\Ejercicio 8 Strings.csprojAssemblyReference.cache
+C:\Users\ali_5\source\repos\Ejercicio 8 Strings\Ejercicio 8 Strings\obj\Debug\Ejercicio 8 Strings.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\Ejercicio 8 Strings\Ejercicio 8 Strings\obj\Debug\Ejercicio 8 Strings.exe
+C:\Users\ali_5\source\repos\Ejercicio 8 Strings\Ejercicio 8 Strings\obj\Debug\Ejercicio 8 Strings.pdb

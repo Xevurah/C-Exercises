@@ -1,0 +1,6 @@
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 1 Abecedario\Ejercicio practico 1 Abecedario\bin\Debug\Ejercicio practico 1 Abecedario.exe.config
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 1 Abecedario\Ejercicio practico 1 Abecedario\bin\Debug\Ejercicio practico 1 Abecedario.exe
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 1 Abecedario\Ejercicio practico 1 Abecedario\bin\Debug\Ejercicio practico 1 Abecedario.pdb
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 1 Abecedario\Ejercicio practico 1 Abecedario\obj\Debug\Ejercicio practico 1 Abecedario.csprojAssemblyReference.cache
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 1 Abecedario\Ejercicio practico 1 Abecedario\obj\Debug\Ejercicio practico 1 Abecedario.exe
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 1 Abecedario\Ejercicio practico 1 Abecedario\obj\Debug\Ejercicio practico 1 Abecedario.pdb

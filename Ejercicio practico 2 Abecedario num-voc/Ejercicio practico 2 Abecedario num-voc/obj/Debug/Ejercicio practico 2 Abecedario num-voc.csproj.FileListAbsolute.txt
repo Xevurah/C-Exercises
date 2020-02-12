@@ -1,0 +1,6 @@
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 2 Abecedario num-voc\Ejercicio practico 2 Abecedario num-voc\bin\Debug\Ejercicio practico 2 Abecedario num-voc.exe.config
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 2 Abecedario num-voc\Ejercicio practico 2 Abecedario num-voc\bin\Debug\Ejercicio practico 2 Abecedario num-voc.exe
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 2 Abecedario num-voc\Ejercicio practico 2 Abecedario num-voc\bin\Debug\Ejercicio practico 2 Abecedario num-voc.pdb
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 2 Abecedario num-voc\Ejercicio practico 2 Abecedario num-voc\obj\Debug\Ejercicio practico 2 Abecedario num-voc.csprojAssemblyReference.cache
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 2 Abecedario num-voc\Ejercicio practico 2 Abecedario num-voc\obj\Debug\Ejercicio practico 2 Abecedario num-voc.exe
+C:\Users\ali_5\Source\Repos\15151162\Ejercicio practico 2 Abecedario num-voc\Ejercicio practico 2 Abecedario num-voc\obj\Debug\Ejercicio practico 2 Abecedario num-voc.pdb
