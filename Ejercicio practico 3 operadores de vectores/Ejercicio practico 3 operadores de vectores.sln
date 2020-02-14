@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio practico 3 operadores de vectores", "Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores.csproj", "{9B9F8212-BBBA-4E92-A954-796824A4FF45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9F8212-BBBA-4E92-A954-796824A4FF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9F8212-BBBA-4E92-A954-796824A4FF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9F8212-BBBA-4E92-A954-796824A4FF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9F8212-BBBA-4E92-A954-796824A4FF45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B838A6-C687-49F2-B486-6A27DE188C26}
+	EndGlobalSection
+EndGlobal

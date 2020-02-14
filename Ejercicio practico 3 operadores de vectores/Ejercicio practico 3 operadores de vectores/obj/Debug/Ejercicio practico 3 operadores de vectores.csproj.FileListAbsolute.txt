@@ -1,0 +1,7 @@
+C:\Users\ali_5\source\repos\Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores\bin\Debug\Ejercicio practico 3 operadores de vectores.exe.config
+C:\Users\ali_5\source\repos\Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores\bin\Debug\Ejercicio practico 3 operadores de vectores.exe
+C:\Users\ali_5\source\repos\Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores\bin\Debug\Ejercicio practico 3 operadores de vectores.pdb
+C:\Users\ali_5\source\repos\Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores\obj\Debug\Ejercicio practico 3 operadores de vectores.csprojAssemblyReference.cache
+C:\Users\ali_5\source\repos\Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores\obj\Debug\Ejercicio practico 3 operadores de vectores.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores\obj\Debug\Ejercicio practico 3 operadores de vectores.exe
+C:\Users\ali_5\source\repos\Ejercicio practico 3 operadores de vectores\Ejercicio practico 3 operadores de vectores\obj\Debug\Ejercicio practico 3 operadores de vectores.pdb
