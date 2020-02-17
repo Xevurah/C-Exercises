@@ -1,0 +1,10 @@
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\bin\Debug\Ejercicio 9 WF Ejemplo boton.exe.config
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\bin\Debug\Ejercicio 9 WF Ejemplo boton.exe
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\bin\Debug\Ejercicio 9 WF Ejemplo boton.pdb
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\obj\Debug\Ejercicio 9 WF Ejemplo boton.csprojAssemblyReference.cache
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\obj\Debug\Ejercicio_9_WF_Ejemplo_boton.Form1.resources
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\obj\Debug\Ejercicio_9_WF_Ejemplo_boton.Properties.Resources.resources
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\obj\Debug\Ejercicio 9 WF Ejemplo boton.csproj.GenerateResource.cache
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\obj\Debug\Ejercicio 9 WF Ejemplo boton.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\obj\Debug\Ejercicio 9 WF Ejemplo boton.exe
+C:\Users\ali_5\source\repos\Ejercicio 9 WF Ejemplo boton\Ejercicio 9 WF Ejemplo boton\obj\Debug\Ejercicio 9 WF Ejemplo boton.pdb
