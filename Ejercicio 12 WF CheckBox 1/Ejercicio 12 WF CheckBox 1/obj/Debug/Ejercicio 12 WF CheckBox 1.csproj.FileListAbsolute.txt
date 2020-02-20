@@ -1,0 +1,10 @@
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\bin\Debug\Ejercicio 12 WF CheckBox 1.exe.config
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\bin\Debug\Ejercicio 12 WF CheckBox 1.exe
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\bin\Debug\Ejercicio 12 WF CheckBox 1.pdb
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\obj\Debug\Ejercicio 12 WF CheckBox 1.csprojAssemblyReference.cache
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\obj\Debug\Ejercicio_12_WF_CheckBox_1.Form1.resources
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\obj\Debug\Ejercicio_12_WF_CheckBox_1.Properties.Resources.resources
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\obj\Debug\Ejercicio 12 WF CheckBox 1.csproj.GenerateResource.cache
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\obj\Debug\Ejercicio 12 WF CheckBox 1.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\obj\Debug\Ejercicio 12 WF CheckBox 1.exe
+C:\Users\ali_5\source\repos\Ejercicio 12 WF CheckBox 1\Ejercicio 12 WF CheckBox 1\obj\Debug\Ejercicio 12 WF CheckBox 1.pdb

@@ -1,0 +1,9 @@
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\bin\Debug\Ejercicio 11 WF Boton y Label.exe.config
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\bin\Debug\Ejercicio 11 WF Boton y Label.exe
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\bin\Debug\Ejercicio 11 WF Boton y Label.pdb
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\obj\Debug\Ejercicio_11_WF_Boton_y_Label.Form1.resources
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\obj\Debug\Ejercicio_11_WF_Boton_y_Label.Properties.Resources.resources
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\obj\Debug\Ejercicio 11 WF Boton y Label.csproj.GenerateResource.cache
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\obj\Debug\Ejercicio 11 WF Boton y Label.csproj.CoreCompileInputs.cache
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\obj\Debug\Ejercicio 11 WF Boton y Label.exe
+C:\Users\ali_5\source\repos\Ejercicio 11 WF Boton y Label\Ejercicio 11 WF Boton y Label\obj\Debug\Ejercicio 11 WF Boton y Label.pdb
